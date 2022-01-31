@@ -120,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammad Hasan\\Desktop\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium.csproj",
+      "projectUniqueName": "F:\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium.csproj",
       "projectName": "HasanFacebookLoginAutomationSelenium",
-      "projectPath": "C:\\Users\\Muhammad Hasan\\Desktop\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium.csproj",
+      "projectPath": "F:\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium.csproj",
       "packagesPath": "C:\\Users\\Muhammad Hasan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammad Hasan\\Desktop\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\obj\\",
+      "outputPath": "F:\\Assignment-DotnetSelenium\\HasanFacebookLoginAutomationSelenium\\HasanFacebookLoginAutomationSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammad Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",

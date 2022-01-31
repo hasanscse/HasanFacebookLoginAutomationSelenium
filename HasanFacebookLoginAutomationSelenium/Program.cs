@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace SeleniumFirst
+namespace SeleniumFirstHasanFacebookLoginAutomationSelenium
 {
     class Program
     {
